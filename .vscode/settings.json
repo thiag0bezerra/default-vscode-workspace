@@ -5,5 +5,5 @@
   "indentRainbow.updateDelay": 500,
   "gitdoc.enabled": true,
   "gitdoc.autoPush": "off",
-  "gitdoc.autoPull": "off"
+  "gitdoc.autoPull": "afterDelay"
 }
