@@ -3,6 +3,4 @@
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "GitHub Dark",
   "indentRainbow.updateDelay": 500,
-  "gitdoc.enabled": true,
-  "gitdoc.autoPush": "off"
 }

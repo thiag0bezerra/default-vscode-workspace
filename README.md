@@ -35,7 +35,7 @@ Here are the recommended extensions included in this workspace, along with their
 - [Remote Server](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) (`ms-vscode.remote-server`)
 - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) (`ms-vscode.remote-explorer`)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) (`ms-azuretools.vscode-docker`)
-- [GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc) (`vsls-contrib.gitdoc`)
+
 
 ## Customization
 
