@@ -4,6 +4,5 @@
   "workbench.colorTheme": "GitHub Dark",
   "indentRainbow.updateDelay": 500,
   "gitdoc.enabled": true,
-  "gitdoc.autoPush": "off",
-  "gitdoc.autoPull": "afterDelay"
+  "gitdoc.autoPush": "off"
 }
