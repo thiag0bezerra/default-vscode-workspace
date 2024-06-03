@@ -48,15 +48,35 @@ The settings and extensions provided in this repository are intended to be a sta
     git clone https://github.com/thiag0bezerra/default-vscode-workspace.git
     ```
 
-2. Open the cloned repository in Visual Studio Code:
+2. Create a new repository on GitHub (or any other Git hosting service).
+
+3. Remove the existing Git history and initialize a new one:
     ```bash
     cd default-vscode-workspace
+    rm -rf .git
+    git init
+    ```
+
+4. Add your new repository as the remote origin:
+    ```bash
+    git remote add origin <your-new-repository-url>
+    ```
+
+5. Push the initial commit:
+    ```bash
+    git add .
+    git commit -m "Initial commit"
+    git push -u origin master
+    ```
+
+6. Open the repository in Visual Studio Code:
+    ```bash
     code .
     ```
 
-3. Review and update the `.vscode/settings.json` and `.vscode/extensions.json` files to match your project's needs.
+7. Review and update the `.vscode/settings.json` and `.vscode/extensions.json` files to match your project's needs.
 
-4. Start developing with a productive and consistent environment!
+8. Start developing with a productive and consistent environment!
 
 ## Contribution
 
